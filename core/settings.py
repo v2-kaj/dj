@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-l-)f=%6zuqw-!0=aq3z2&mc*kh#shwns6zgw40@v2wdjc4bn#m
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['127.0.0.0.1', 'djd-prod-django-on-docker-0eefg6.mo5.mogenius.io']
 
 
 # Application definition
